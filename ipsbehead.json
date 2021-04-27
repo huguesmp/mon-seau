@@ -1,0 +1,6 @@
+{
+    "version": "v0.3",
+    "url": "https://github.com/heuripedes/ipsbehead/releases/download/v0.3/ipsbehead-0.3-win.zip",
+    "extract_dir": "ipsbehead-0.3-win",
+    "bin": "ipsbehead.exe"
+}
