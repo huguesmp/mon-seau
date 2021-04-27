@@ -1,5 +1,5 @@
 {
-    "version": "v0.3",
+    "version": "0.3",
     "description": "ipsbehead is an utility to adjust IPS patches that require a header in the target SNES ROM in order to use these patches with a headerless SNES ROM.",
     "url": "https://github.com/heuripedes/ipsbehead/releases/download/v0.3/ipsbehead-0.3-win.zip",
     "hash": "3773b769609cd2d6796c43469c49443c87b5a16b5147b3995e35eeaa382d068d",
